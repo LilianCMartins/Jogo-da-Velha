@@ -13,7 +13,7 @@ Clone o repositório:
 
 git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 cd Tic-Tac-Toe
-Instale as dependências:
+Instale as dependências:\n
 
 npm install
 Execute o projeto:
@@ -21,7 +21,7 @@ Execute o projeto:
 npm run dev
 Acesse no navegador: Abra http://localhost:5173 para visualizar o jogo.
 
-Como Jogar
+## Como Jogar
 O jogo é para dois jogadores.
 Clique em uma célula para marcar X ou O.
 O primeiro a alinhar três símbolos vence.
